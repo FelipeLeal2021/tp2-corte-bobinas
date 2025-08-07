@@ -35,7 +35,7 @@ MARCONE, C.
 Corte de estoque unidimensional. Universidade Federal de Ouro Preto.
 Disponível em: http://www.decom.ufop.br/prof/marcone/Disciplinas/InteligenciaComputacional/CorteEstoqueUnidimensional.pdf
 
-Essa é a referência base do seu trabalho, pois descreve:
+Referência base do trabalho:
 
 O problema do corte de bobinas.
 
@@ -50,5 +50,5 @@ SILVEIRA JÚNIOR, J. A.; PINHEIRO, P. R.; THOMAZ, A. C. F.
 Otimização das perdas em cortes guilhotinados para bobinas de aço na indústria metalmecânica.
 Mestrado em Informática Aplicada – Esmaltec/UNIFOR/UECE, 2007.
 
-Este trabalho aplica metaheurísticas para problemas de corte, incluindo busca local e heurísticas de construção, como você fez.
+Este trabalho aplica metaheurísticas para problemas de corte, incluindo busca local e heurísticas de construção.
 
